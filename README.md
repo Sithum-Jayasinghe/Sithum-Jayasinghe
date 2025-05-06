@@ -23,6 +23,7 @@
 - 🎂 I'm 21 years old
 - 👀 I’m interested in **HTML, CSS, JS, PHP, MySQL, C, C++, Java, React, MongoDB, Express, NodeJS,Tailwind CSS, Python, Bootstraps**
 - 🎓 I’m currently studying Software Engineering at Sri Lanka Institute of Information Technology.
+  
 - 🚀 I’m passionate about developing full-stack web applications that address real-world problems. My focus is on creating scalable, secure, and user-friendly solutions using modern web technologies. Whether it’s building e-commerce platforms, admin dashboards, or dynamic user interfaces, I strive to deliver applications that are both functional and impactful. I'm particularly interested in deploying these solutions on Linux-based environments like Ubuntu, leveraging custom server configurations to ensure performance and reliability in real-world use cases.
 - 📧 Email me at: **abishekjayasinghe944@gmail.com**
 - 📞 Contact me on WhatsApp: **+94 (74) 0475310**
