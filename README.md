@@ -1,13 +1,43 @@
-<h1 align="center">Hi 👋, I'm Sithum Jayasinghe</h1>
-<h3 align="center">A passionate Software Engineering</h3>
+### Hi Everyone 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sithum-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="sithum-jayasinghe" /> </p>
+![forks](https://img.shields.io/github/forks/Sithum-Jayasinghe/Sithum-Jayasinghe?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/Sithum-Jayasinghe/Sithum-Jayasinghe?style=social)
+
+
+![size](https://img.shields.io/github/repo-size/Sithum-Jayasinghe/Sithum-Jayasinghe?color=purple&label=Repo%20Size&style=plastic)
+![license](https://img.shields.io/github/license/Sithum-Jayasinghe/Sithum-Jayasinghe?color=purple&label=License&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=Sithum%20Jayasinghe&color=purple&style=plastic)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8706E1FF&center=false&vCenter=true&random=false&width=435&lines=Welcome!+I'm+Sithum+Jayasinghe;Passionate+about+Software+Engineering;Don't+forget+to+follow+me...)](https://git.io/typing-svg)
+
+
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Sithum-Jayasinghe" />
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sithum-Jayasinghe&layout=compact&langs_count=8&card_width=320" />
 
 
 
-<h3 align="left">Connect with me: abishekjayasinghe944@gmail.com</h3>
-<p align="left">
-</p>
+### Welcome All! 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 👋 I’m **Sithum Jayasinghe**
+- 🎂 I'm 21 years old
+- 👀 I’m interested in **HTML, CSS, JS, PHP, MySQL, C, C++, Java, React, MongoDB, Express, NodeJS,Tailwind CSS, Python, Bootstraps**
+- 🎓 I’m currently studying Software Engineering at Sri Lanka Institute of Information Technology.
+- 🚀 I’m passionate about developing full-stack web applications that address real-world problems. My focus is on creating scalable, secure, and user-friendly solutions using modern web technologies. Whether it’s building e-commerce platforms, admin dashboards, or dynamic user interfaces, I strive to deliver applications that are both functional and impactful. I'm particularly interested in deploying these solutions on Linux-based environments like Ubuntu, leveraging custom server configurations to ensure performance and reliability in real-world use cases.
+- 📧 Email me at: **abishekjayasinghe944@gmail.com**
+- 📞 Contact me on WhatsApp: **+94 (74) 0475310**
+-  Connect with me on LinkedIn: 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sithum-Jayasinghe&margin-w=12&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🤝 Connect & Collaborate
+
+<div align="left">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white&color=purple)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
+
+
+</div>
