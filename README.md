@@ -27,7 +27,7 @@
 - 🚀 I’m passionate about developing full-stack web applications that address real-world problems. My focus is on creating scalable, secure, and user-friendly solutions using modern web technologies. Whether it’s building e-commerce platforms, admin dashboards, or dynamic user interfaces, I strive to deliver applications that are both functional and impactful. I'm particularly interested in deploying these solutions on Linux-based environments like Ubuntu, leveraging custom server configurations to ensure performance and reliability in real-world use cases.
 - 📧 Email me at: **abishekjayasinghe944@gmail.com**
 - 📞 Contact me on WhatsApp: **+94 (74) 0475310**
--  Connect with me on LinkedIn: 
+-  Connect with me on LinkedIn:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sithum-Jayasinghe&margin-w=12&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
 
