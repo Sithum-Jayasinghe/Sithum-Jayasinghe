@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🧑‍🎓 I'm **Sithum Jayasinghe**, 21 years old  
+- 🧑‍🎓 I'm **Sithum Jayasinghe**, 22 years old  
 - 🎓 Undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**, studying **Software Engineering**
 - 🌐 I’m passionate about **Full Stack Development**, with a strong interest in solving real-world problems through modern technologies
 
