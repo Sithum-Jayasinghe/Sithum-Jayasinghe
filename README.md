@@ -59,8 +59,7 @@ I'm currently seeking a **Software Engineering internship** where I can:
 - 📧 Email: **abishekjayasinghe944@gmail.com**
 - 📞 WhatsApp: **+94 74 047 5310**
 - 🌐 Portfolio: *Coming Soon*
-- 💼 [LinkedIn](#) *(Add your profile link here)*
-
+- 💼 [LinkedIn](#) www.linkedin.com/in/sithum-jayasinghe
 ---
 
 ## 🤝 Let's Connect
